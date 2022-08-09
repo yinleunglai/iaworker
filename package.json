@@ -1,0 +1,24 @@
+{
+  "name": "iaworker",
+  "version": "1.0.0",
+  "description": "intelligent automation worker for human repetitive tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yinleunglai/iaworker.git"
+  },
+  "keywords": [
+    "intelligent",
+    "automation",
+    "RPA"
+  ],
+  "author": "yinleunglai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yinleunglai/iaworker/issues"
+  },
+  "homepage": "https://github.com/yinleunglai/iaworker#readme"
+}
